@@ -416,4 +416,4 @@ All 6 output CSVs will appear in `data/cleaned/`
 
 **Sanju Kumar**
 
-[LinkedIn](linkedin.com/in/sanjukumar10) &nbsp;|&nbsp; [GitHub]([https://github.com/analytics-ak](https://github.com/SANJU-KR))
+[LinkedIn](http://www.linkedin.com/in/sanjukumar10) &nbsp;|&nbsp; [GitHub](https://github.com/SANJU-KR))
